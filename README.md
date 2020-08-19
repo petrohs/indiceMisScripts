@@ -1,0 +1,22 @@
+# indiceMisScripts
+Listado de mis scripts en gist
+
+* [_xlock.bash](https://gist.github.com/petrohs/ad8e28781bcf19e70d1adcfb9d32ac9c)
+* [extraerDocuFinalDeScript.bash](https://gist.github.com/petrohs/014f6446a4b5d76f73f365b5c2571bc5)
+* [listaVPN.bash](https://gist.github.com/petrohs/acc6861d3281816f2629a556c327560f)
+* [SCc_c.bash](https://gist.github.com/petrohs/d83aafd2539a90bc32f4b5ae679d6494)
+* [cambiapT.bash](https://gist.github.com/petrohs/5fd4c2103231d1c7751de6a0d464d7c3)
+* [transl.bash](https://gist.github.com/petrohs/fe75237e1af9fe688a3dcd1621e1003a)
+* [Vxrandr.bash](https://gist.github.com/petrohs/0e7aaaf3e02756dfb3d0c4e8b0d327b0)
+* [parse_yaml.bash](https://gist.github.com/petrohs/3970ba4e84843d727b948be9fffcd245)
+* [_screenshotClipboad.bash](https://gist.github.com/petrohs/5a166cff1908b1d023d6c669545ada60)
+* [validaFormatoFecha.sh](https://gist.github.com/petrohs/b8443f35f2d98c44b37481e72f51cba8)
+* [bicho.sh](https://gist.github.com/petrohs/ddda6020170d264bff0ccf042c18dc16)
+* [_seq.sh](https://gist.github.com/petrohs/10cc446b20120cc37bff495f933a6f1b)
+* [renombraFot.sh](https://gist.github.com/petrohs/650eafe7c982dd6db9e88bbf92284fc1)
+* [perfilesArandr.bash](https://gist.github.com/petrohs/564a5fed77ea5b61202636c8ff89d74f)
+* [ayuda2man.bash](https://gist.github.com/petrohs/0c13ad768ec3b456b0ef061ce52873a2)
+* [machote.sh](https://gist.github.com/petrohs/b8e42bd4ddc33cc25012e54dbda9ad24)
+* [respaldaPADS.bash](https://gist.github.com/petrohs/17c6ac44da7cf06a88f66762da887795)
+* [_actualizaImagenXscreensaver.bash](https://gist.github.com/petrohs/d9efeffb5ccd3a64d113b0da63bd3b91)
+* [buscaWikipediaZenity.bash](https://gist.github.com/petrohs/41689739271babf0646f5c0bac035dd5)
