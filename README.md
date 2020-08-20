@@ -25,5 +25,17 @@ Listado de mis scripts en gist
 * [cargaGist.bash](https://gist.github.com/38690ff34414562501d95e937246ba8e)_(v00.00.01)_ Carga scripts al gist y actualiza indice.
 * [trasnFTP.sh](https://gist.github.com/d1f806a847f3eaef15640cd473098a77)_(v00.00.01)_ Wrapper para ftp.
 * [traeCDR.sh](https://gist.github.com/adce093d00de317ebce3ab6415c5d90f)_(v00.00.01)_ Toma un segmento de archivo.
-* [perfilesArandr.bash](https://gist.github.com/67574f1bcb062de2f252c4de1d4f94d4)_(v00.00.01)_ Lista en zenity de perfiles para xrandr.
 * [bookmarksPetrohs.bash](https://gist.github.com/dcf00d953b03e04a712914e1e5f81f06)_(v00.00.01)_ Pasa un archivo con urls a jid.
+* [perfilesArandr.bash](https://gist.github.com/67574f1bcb062de2f252c4de1d4f94d4)_(v00.00.01)_ Lista en zenity de perfiles para xrandr.
+* [shutdown.sh](https://gist.github.com/6187abd44c0732777dcc73896ccc9059)_(v00.00.01)_ Selecionar apagar o reiniciar con zenity.
+* [encontrarMimFaltante.bash](https://gist.github.com/69af8a1b6fc49c322e899ab4ccd20320)_(v00.00.01)_ Identificar el mim faltante.
+* [fechasInvEMMC.sh](https://gist.github.com/a6d04d39a4c95b2df86a9316d3c486af)_(v00.02.00)_ Detecta formato invalido en fechas del archivo EMMC.
+* [_lock.sh](https://gist.github.com/a96a5157a980d3caf5171c5c7934e776)_(v00.00.02)_ Parametros personalizados para bloquer pantalla.
+* [nG.sh](https://gist.github.com/e89c2d1e88c116ca9a0d5ebaf738d2fd)_(v00.00.01)_ Obtener un segmento de archivo.
+* [_Kprogs.sh](https://gist.github.com/8e5310f8200066f1172c074b7c088b6a)_(v00.00.01)_ Matar evolution, flock, gnotify o firefox.
+* [_Pprism.sh](https://gist.github.com/abf4b1e41e940b05c79dd6cd70c6288b)_(v00.00.01)_ Lista en zenity para prism.
+* [zimScripts_pcal.bash](https://gist.github.com/f21ca7f41ad7e7f401c6050247c2655b)_(v00.00.01)_ Script para zim generando pcal.
+* [field_attr.sh](https://gist.github.com/32da08f7bf93bccb9c0988a6254fef1c)_(v00.00.02)_ Obtiene el correspondiente a field y attributes.
+* [extrae_plantilla.bash](https://gist.github.com/62ef45b5b9a79e6f9760c4c00fabd9a1)_(v00.00.01)_ Se autoextrae las plantillas desde el script.
+* [descargaConfiguracion.sh](https://gist.github.com/93e37b3ebaf8e6909c1f2e41fe567788)_(v00.00.01)_ Descarga variables de configuraciones desde base de datos.
+* [buscaCdrDxl.sh](https://gist.github.com/3200d2b5f7258aa44711ab0f3e7561d1)_(v00.00.04)_ Busca el cdr dentro de un archivo volcado dxl.

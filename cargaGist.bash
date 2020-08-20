@@ -14,7 +14,8 @@ ayuda() { echo '
 DEPENDENCIAS:  gist-paste
         BUGS:  ---
        NOTAS:  ---
-   VERSIONES:  20200819   0.0.1    petrohs/   Creacion.
+   VERSIONES:  20200819   0.0.2    petrohs/   Ajuste.
+               20200819   0.0.1    petrohs/   Creacion.
          URL:  https://github.com/petrohs/indiceMisScripts/blob/master/cargaGist.bash
 ';}
 
@@ -26,7 +27,7 @@ DEPENDENCIAS:  gist-paste
 ##
  cArch="${1}";
  cDesc="${2}";
- if [[ -z "${3}" ]]; then cVers="00.00.01"; else cVers="$2"; fi;
+ if [[ -z "${3}" ]]; then cVers="00.00.01"; else cVers="${3}"; fi;
  bArch="$(basename ${cArch})";
  aArch="${bArch%.*}";
 
