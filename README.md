@@ -39,3 +39,6 @@ Listado de mis scripts en gist
 * [extrae_plantilla.bash](https://gist.github.com/62ef45b5b9a79e6f9760c4c00fabd9a1)_(v00.00.01)_ Se autoextrae las plantillas desde el script.
 * [descargaConfiguracion.sh](https://gist.github.com/93e37b3ebaf8e6909c1f2e41fe567788)_(v00.00.01)_ Descarga variables de configuraciones desde base de datos.
 * [buscaCdrDxl.sh](https://gist.github.com/3200d2b5f7258aa44711ab0f3e7561d1)_(v00.00.04)_ Busca el cdr dentro de un archivo volcado dxl.
+* [rotaFot.sh](https://gist.github.com/f0f225789399cee74ed2003776763511)_(v00.00.01)_ Girar imagenes.
+* [debianHuerfanosPopular.bash](https://gist.github.com/6611eedbe703bd2b6358825a3b768132)_(v00.00.01)_ obtener listado de paquetes huarfanos de la lista de popularidad Debian.
+* [wikiFotosCC.bash](https://gist.github.com/0cd75f5e861bb20cb2638269a5a83c59)_(v00.00.01)_ Descarga fotos de creativecommons y le da un efecto de foto polaroid.
